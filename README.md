@@ -40,7 +40,7 @@ This repository provides the implementation of **EPR (Elite-Pattern Reinforcemen
    python test_vrplib.py
    
 ## Test EPR on POMO、Omni-POMO、Sym-POMO、ELG-POMO
-1. **We provide EPR implementations based on various POMO variants. Since the data files are large, you will need to download them yourself from their official repositories. The links are provided below:**
+1. **We provide EPR implementations based on various POMO variants in the EPR folder. However, due to space limitations, only the core code is included. Additional configuration files and datasets can be accessed through the link below. The links are provided below:**
 POMO：https://github.com/yd-kwon/POMO
 Omni-POMO：https://github.com/yd-kwon/POMO
 Sym-POMO：https://github.com/alstn12088/Sym-NCO
